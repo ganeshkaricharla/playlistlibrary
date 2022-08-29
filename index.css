@@ -8,6 +8,7 @@
 body {
   background: url("https://media2.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 header {
   background-color: #277bc0;
